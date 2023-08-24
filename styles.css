@@ -4,6 +4,10 @@ html {
 
 .flex-links {
     display: flex;
+    /* border: solid black; */
+    /* flex-direction: column; */
+    gap: 50px;
+    justify-content: center;
 }
 
 .center-image {
@@ -18,8 +22,8 @@ html {
 .main-link-box {
     border: 5px solid black;
     padding: 20px;
-    margin: 5px auto;
-    display: inline-block;
+    /* margin: 5px 5px; /*
+    /* display: inline-block; */
     background-color: darksalmon;
     font-weight: bold;
 }
